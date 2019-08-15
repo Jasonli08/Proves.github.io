@@ -2,7 +2,7 @@
 如有问题请联系我们：(dailyprove@163.com)
 ``
 # 今日证明 
-* [image](https://github.com/Jasonli08/dailyprove.github.io/blob/master/Proves1908/001.jpg)
+* ![image](https://github.com/Jasonli08/dailyprove.github.io/blob/master/Proves1908/001.jpg)
 * [image](https://github.com/Jasonli08/dailyprove.github.io/blob/master/Proves1908/002.jpg)
 * [image](https://github.com/Jasonli08/dailyprove.github.io/blob/master/Proves1908/003.jpg)
 
