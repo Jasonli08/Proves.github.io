@@ -5,9 +5,9 @@
 <details>
   <summary>下拉查看</summary>
   
-  [image1](https://github.com/Jasonli08/dailyprove.github.io/blob/master/Proves1908/001.jpg)
-  [image2](https://github.com/Jasonli08/dailyprove.github.io/blob/master/Proves1908/002.jpg)
-  [image3](https://github.com/Jasonli08/dailyprove.github.io/blob/master/Proves1908/003.jpg)
+  ![image](https://github.com/Jasonli08/dailyprove.github.io/blob/master/Proves1908/001.jpg)
+  ![image](https://github.com/Jasonli08/dailyprove.github.io/blob/master/Proves1908/002.jpg)
+  ![image](https://github.com/Jasonli08/dailyprove.github.io/blob/master/Proves1908/003.jpg)
 </details>
 # 介绍
 ## 组织介绍
