@@ -2,7 +2,7 @@
 如有问题请联系我们：(dailyprove@163.com)
 ``
 # 今日证明 
-* ![](https://pan.baidu.com/s/1EkHIUpyTQe9eWaxtVj87Ig)
+* [点击查看](https://pan.baidu.com/s/1EkHIUpyTQe9eWaxtVj87Ig)
 
 # 介绍
 ## 组织介绍
@@ -19,9 +19,7 @@
 1. 发送的证明将经过管理团队的**核查**，一般时间不会太长，（除非证明很长或者中间省略了一些还比较重要的步骤）。
 1. 等待期结束后我们将向**您的邮箱**发送**核查结果**。
 # 近期证明
-* [image](https://github.com/Jasonli08/dailyprove.github.io/blob/master/Proves1908/001.jpg)
-* [image](https://github.com/Jasonli08/dailyprove.github.io/blob/master/Proves1908/002.jpg)
-* [image](https://github.com/Jasonli08/dailyprove.github.io/blob/master/Proves1908/003.jpg)
+* [20190815](https://pan.baidu.com/s/1EkHIUpyTQe9eWaxtVj87Ig)
 # 批量查看
 * [2019年8月](https://pan.baidu.com/s/1A7VrAwpMZ--Yms5bNng3rA)
 * [2019年9月](https://pan.baidu.com/s/1HiNTzZ5pI9TlVapYQfwHpQ)
